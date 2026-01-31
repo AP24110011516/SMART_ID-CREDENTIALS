@@ -1,0 +1,1 @@
+This project is a Python program that validates student registration details. It checks whether the entered Student ID, Email ID, Password, and Referral ID follow the given rules. Based on the validation results, the program displays Approved or Rejected.
